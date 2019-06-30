@@ -70,3 +70,6 @@ class TabCard {
 
 */
 let tabs = document.querySelectorAll();
+
+
+//delete
